@@ -1,5 +1,5 @@
 sudo: required
 install:
   - sudo apt-get update
-  - sudo apt-get install dia
+  - sudo apt-get install dia asciidoc
 script: make
